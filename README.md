@@ -4,5 +4,5 @@
   
 ## Проекты
 
-* [Самостоятельные задания с курса "Программирование на Python"](https://github.com/belovengineer/python_course_and_leetcode/stepic_python.ipynb)
-* [Задачи с сайта LeetCode](https://github.com/belovengineer/python_course_and_leetcode/Tasks_from_LeetCode.ipynb)
+* [Самостоятельные задания с курса "Программирование на Python"](https://github.com/belovengineer/python_course_and_leetcode/stepic_python.ipynb/)
+* [Задачи с сайта LeetCode](https://github.com/belovengineer/python_course_and_leetcode/Tasks_from_LeetCode.ipynb/)
